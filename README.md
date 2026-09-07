@@ -1,4 +1,4 @@
-# Projeto_Criado-_com_IA
+# Projeto_Criado-_com_IA_GPT
 
 # Projeto Bella Paulista — Padaria & Cafeteria
 
